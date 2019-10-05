@@ -30,11 +30,11 @@ This application is implemented using Python 3.6.8
 
 ## Running source code:
 	To run, call the following command in src/ folder:
-		'''python get_mars_pictures.py dates.txt'''
+	 $ python get_mars_pictures.py dates.txt
 
 ## Execute test cases:
 	To execute unit tests, call the following in the src/ folder:
-		'''py.test test_marsrover.py'''
+	 $ py.test test_marsrover.py
 
 ## Notes
 	Bootstrap is used for HTML formatting. Copy of .css and .js files are in bootstrap/ folder
